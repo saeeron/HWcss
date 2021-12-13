@@ -1,0 +1,63 @@
+body {
+	font-family : Arial
+}
+
+h2.intro {
+	color:black;
+	
+}
+
+div.bbb{
+	color:black;
+}
+
+div.alltop{
+	background-image: url("pattern.png");
+	width: 900px;
+}
+
+h2 {
+
+	color: blue;
+}
+
+
+span.emph {
+	font-weight: bold;
+}
+
+#tab {
+
+	color: darkred;
+	font-size: 16px;
+
+}
+
+
+.bbb {
+
+	color: greenyellow;
+}
+
+
+div.ins {
+	width: 900px;
+	color: red;
+	background-color: yellow;
+
+}
+
+center {
+	color : white;
+	font-size: 150%;
+}
+
+center.box {
+	height : 180px;
+	width : 550px;
+	padding: 20px;
+	margin: 20px;
+	border: 10px dashed black;
+	background-color: red;
+
+}
